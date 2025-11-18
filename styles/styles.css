@@ -73,6 +73,9 @@ p{
 }
 
 .text-center{
+  text-align:start;
+}
+.text-center-mid{
   text-align:center;
 }
 
